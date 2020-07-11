@@ -12,7 +12,8 @@ This is a project initiated by [the COVID19 Global Forecasting Kaggle competitio
 
 ## Main Files
 <br>
-* `covid19 - EDA.ipynb` - Notebook performing Exploratory Data Analysis on Global comfirmed cases and deaths before June 10th
+
+* `covid19 - EDA.ipynb` - Notebook performing Exploratory Data Analysis on Global comfirmed cases and deaths before June 10th <br>
 * `covid19 - ARIMA.ipynb` - Notebook performing ARIMA algorithms to forecast Global comfirmed cases and deaths 
 
 
