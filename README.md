@@ -19,7 +19,7 @@ The **techniques** I am planning to use for forecasting are: <br>
 
 * `covid19 - EDA.ipynb` - Notebook performing Exploratory Data Analysis on Global comfirmed cases and deaths before June 10th <br>
 * `covid19 - ARIMA.ipynb` - Notebook performing ARIMA algorithms to forecast Global comfirmed cases and deaths 
-
+<br>
 
 ## Data Sources
 
